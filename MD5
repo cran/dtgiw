@@ -1,0 +1,15 @@
+1fe0bc286411b2b9da479b2248b56a53 *DESCRIPTION
+7248feeeade69309edfa78e81e9783ac *NAMESPACE
+093646fa93bf992990555ee26cfbb280 *R/dDTGIW.R
+6e9dc755959bc61ea9f15d45e7d9f681 *R/pDTGIW.R
+81d17d0e0445e529331ad85664b3f77f *R/qDTGIW.R
+aed45d418596d186f73ed640ece2fd17 *R/rDTGIW.R
+bdcf0b741c623ee3c1857da561f8a400 *man/dDTGIW.Rd
+bbaaa80846a99a3f867f8f19f9f88b97 *man/pDTGIW.Rd
+bac7be5ce97450ab949e858b8852f6be *man/qDTGIW.Rd
+06efdd4d50f805e53dbc65025ca7e7db *man/rDTGIW.Rd
+fad2a0b2dde1f117bdb5baa4fd3e7430 *tests/testthat.R
+254ac31700c709faa6b0b8753a7348ca *tests/testthat/test-dDTGIW.R
+489f64c62e498d3e455945650e4e813f *tests/testthat/test-pDTGIW.R
+aa784aae0af1b6a81d2f8d10409190b9 *tests/testthat/test-qDTGIW.R
+cc353aa2361fb987ee142818828a38e6 *tests/testthat/test-rDTGIW.R
