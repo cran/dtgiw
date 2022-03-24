@@ -2,6 +2,10 @@
 
 export(dDTGIW)
 export(pDTGIW)
+export(plotDTGIW)
 export(qDTGIW)
 export(rDTGIW)
+importFrom(graphics,plot)
+importFrom(graphics,points)
+importFrom(graphics,title)
 importFrom(stats,runif)
