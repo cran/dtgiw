@@ -1,7 +1,7 @@
 Package: dtgiw
 Type: Package
 Title: Discrete Transmuted Generalized Inverse Weibull Distribution
-Version: 0.1.1
+Version: 1.0.0
 Language: en-US
 Authors@R: c(
     person("Atchanut", "Rattanalertnusorn", email = "atchanut_r@rmutt.ac.th", role = c("cre","aut")),
@@ -15,8 +15,8 @@ Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2022-03-24 08:52:04 UTC; COM
+Packaged: 2022-03-31 03:44:05 UTC; COM
 Author: Atchanut Rattanalertnusorn [cre, aut],
   Sirinapa Aryuyuen [aut]
 Repository: CRAN
-Date/Publication: 2022-03-24 09:40:02 UTC
+Date/Publication: 2022-03-31 07:20:05 UTC

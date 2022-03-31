@@ -29,5 +29,7 @@ This function for the plot of DTGIW distribution.
 x <- c(0:10)
 fx<- dDTGIW(x,3.45,0.7,1.05,0)
 plotDTGIW(x,fx,alpha=3.45,beta=0.7,lambda=1.05,theta=0)
+fx2 <- dDTGIW(x,2.50,0.5,1.00,0)
+plotDTGIW(x,fx2,alpha=2.50,beta=0.5,lambda=1.00,theta=0)
 
 }
